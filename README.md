@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Mark Rubanza</h1>
-<h3 align="center">A passionate frontend developer from Uganda</h3>
+<h3 align="center">A passionate frontend developer from Uganda currently looking for new opportunities.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=banzaman&label=Profile%20views&color=0e75b6&style=flat" alt="banzaman" /> </p>
 
 <p align="left"> <a href="https://twitter.com/banzamarq10" target="blank"><img src="https://img.shields.io/twitter/follow/banzamarq10?logo=twitter&style=for-the-badge" alt="banzamarq10" /></a> </p>
 
-- 🔭 I’m currently working on **everything**
+- 🔭 I’m currently working on **EVERYTHING**
 
-- 🌱 I’m currently learning **react**
+- 🌱 I’m currently learning **REACT/REDUX**
 
-- 💬 Ask me about **HTML, CSS**
+- 💬 Ask me about **HTML, CSS, JAVASCRIPT**
 
 - 📫 How to reach me **markrubanza10@gmail.com**
 
