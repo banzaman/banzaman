@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **REACT/REDUX**
 
-- 💬 Ask me about **HTML, CSS, JAVASCRIPT**
+- 💬 Ask me about **HTML, CSS, SASS, JAVASCRIPT**
 
 - 📫 How to reach me **markrubanza10@gmail.com**
 
