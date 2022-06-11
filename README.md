@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **markrubanza10@gmail.com**
 
-- ⚡ Fun fact **I think am funny**
+- ⚡ Fun fact **I like telling computers what to do!!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
