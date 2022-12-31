@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=banzaman&label=Profile%20views&color=0e75b6&style=flat" alt="banzaman" /> </p>
 
-<p align="left"> <a href="https://twitter.com/banzamarq10" target="blank"><img src="https://img.shields.io/twitter/follow/banzamarq10?logo=twitter&style=for-the-badge" alt="banzamarq10" /></a> </p>
+<p align="left"> <a href="https://twitter.com/banzamarq101" target="blank"><img src="https://img.shields.io/twitter/follow/banzamarq10?logo=twitter&style=for-the-badge" alt="banzamarq101" /></a> </p>
 
 - 🔭 I’m currently working on **REAL-WORLD PROJECTS**
 
