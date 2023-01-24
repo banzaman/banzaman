@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=35&duration=4500&color=975BF7&center=true&vCenter=true&width=1000&lines=Welcome!%F0%9F%A4%97;I'm+Mark+%F0%9F%91%8B;Nice+to+meet+you!%F0%9F%98%84)](https://git.io/typing-svg)
 
 <h1 align="center">Hi, I'm Mark Rubanza</h1>
-<h3 align="center">I'm currently Full-stack developer student from Microverse (Remote software program) available for hire</h3>
+<h3 align="center">I'm currently a Full-stack developer student from Microverse (Remote software program) available for hire</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=banzaman&label=Profile%20views&color=0e75b6&style=flat" alt="banzaman" /> </p>
 
