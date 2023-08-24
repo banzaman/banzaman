@@ -32,6 +32,3 @@
 <p><a href="https://ko-fi.com/Creed10"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Creed10" /></a></p><br><br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=banzaman&show_icons=true&locale=en" alt="banzaman" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=banzaman&" alt="banzaman" /></p>
-
